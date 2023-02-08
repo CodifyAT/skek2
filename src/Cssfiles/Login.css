@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+h3{
+    text-align: center;
+}
+.card-header{
+    background-color: lightpink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#bimg{
+    width: 150px;
+    margin-left: auto;
+}
+.card{
+    margin-top:50px ;
+    margin-left:auto;
+    margin-right: auto;
+    width:190px;
+    border: 2px solid black;
+}
+#em1{
+    margin-bottom: 70px;
+}
+#pswd1{
+    margin-bottom: 50px;
+}
+#button1{
+    margin-bottom: 50px;
+    margin-left: 200px;
+    background-color: blueviolet;
+
+}
+#button1:hover{
+    background-color: rgb(192, 153, 228);
+}
+
+ul{
+    margin-left:auto;
+    margin-right: auto;
+    width:100%;
+    padding-top:30px;
+}

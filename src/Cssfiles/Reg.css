@@ -1,0 +1,23 @@
+#submit{
+    margin-left: 45%;
+
+ }
+ .form-select{
+     display:inline;
+ }
+ h1{
+     text-align: center;
+     font-size: 90px;
+ }
+ #bimg{
+         width: 150px;
+         margin-left: auto;
+     }
+#submit{
+    border:1px solid gray;
+    background-color: blueviolet;
+}
+ #h3{
+    text-align: center;
+ }
+ #bttn{color:aliceblue}
