@@ -12,13 +12,13 @@ function Home(){
             </div>
             <div id="carimg" className="carousel-inner">
               <div className="carousel-item active">
-                <img src="./images/Unknown.png" style={{width: '100%'}} />
+                <img src="Unknown.png" style={{width: '100%'}} />
               </div>
               <div className="carousel-item">
-                <img src="./images/images.png" style={{width: '100%'}} />
+                <img src="/images.png" style={{width: '100%'}} />
               </div>
               <div className="carousel-item">
-                <img src="./images/coaching.png" style={{width: '100%'}} />
+                <img src="coaching.png" style={{width: '100%'}} />
               </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#car" data-bs-slide="prev">

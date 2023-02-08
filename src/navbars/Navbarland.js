@@ -4,7 +4,7 @@ function Navbar1(){
             <nav className="nav navbar-expand-lg bg-light navbar-sticky py-3">
         <div className="container-fluid">
           <a className="navbar-brand" href="#home">
-            <img id="bimg" src="./images/se-high-resolution-logo-color-on-transparent-background.png"/>
+            <img id="bimg" src="se-high-resolution-logo-color-on-transparent-background.png"/>
           </a><a href="#home" id="bname1" className="navbar-brand">Shiksha Ekikaran</a>
         </div>
         <div className="container-fluid">
